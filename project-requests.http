@@ -1,0 +1,20 @@
+
+###
+POST http://localhost:8080/api/card
+Content-Type: application/json
+
+{
+  "customerNo": "43233",
+  "type" : "VISA_CARD",
+  "fullName" : "Test"
+}
+
+
+###
+GET http://localhost:8080/api/card
+
+
+
+###
+GET http://localhost:8080/api/audit/log
+

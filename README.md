@@ -1,2 +1,2 @@
-# spring-interceptor-demo-app
-spring filter, logging demo version
+# spring-interceptor-app
+Spring Boot, Aop, Interceptor 

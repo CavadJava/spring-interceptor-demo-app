@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring_interceptor_demo_app
+
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+
+server:
+  servlet:
+    context-path: /api
